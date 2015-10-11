@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sweather</string>
+    <string name="welcomeSweather">Welcome to\nSweather</string>
+    <string name="celsius">50℃</string>
+    <color name="blue">#66CCFF</color>
+    <string name="title_activity_rahn">rahn</string>
+
+</resources>
