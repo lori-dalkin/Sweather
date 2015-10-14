@@ -52,8 +52,6 @@ public class MainActivity extends AppCompatActivity {
                     default:
                         infoScreen = new Intent(getApplicationContext(), startUpActivity.class);
                         startActivity(infoScreen);
-
-
                 }
 
 
