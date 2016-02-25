@@ -1,2 +1,2 @@
 # Sweather
-Crazy android app
+Crazy android app :)
